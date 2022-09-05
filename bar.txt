@@ -1,0 +1,1 @@
+Bar now replaces the behavior in foo.
